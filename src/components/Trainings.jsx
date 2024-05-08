@@ -54,3 +54,4 @@ const Trainings = () => {
 
 export default Trainings;
 
+
